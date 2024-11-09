@@ -1,0 +1,175 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Novo CNES
+    output: web, pdf
+    folderitems:
+
+    - title: O que é o novo CNES
+      url: /novoCNES.html
+      output: web, pdf    
+
+    - title: Homologacao Piloto
+      url: /homologacao.html
+      output: web, pdf    
+
+    - title: Fases do projeto
+      url: /fases_projeto.html
+      output: web, pdf      
+      type: homepage
+
+    - title: Dinâmica do novo sistema
+      url: /dinamica.html
+      output: web, pdf
+      type: homepage
+
+    - title: Objetivos do CNES
+      url: /objetivo.html
+      output: web, pdf
+      type: homepage
+
+    - title: Histórico
+      url: /historico.html
+      output: web, pdf
+      type: homepage
+
+    - title: Criterios Mínimos
+      url: /criterios.html
+      output: web, pdf
+      type: homepage
+
+    - title: Fluxo de envio
+      url: /emconstrucao.html
+      output: web, pdf
+      type: homepage
+
+    - title: Público alvo
+      url: /publico.html
+      output: web, pdf
+      type: homepage
+
+    - title: Conceitos do sistema
+      url: /conceitos.html
+      output: web, pdf
+      type: homepage
+
+    - title: O que é leito
+      url: /emconstrucao.html
+      output: web, pdf
+      type: homepage
+
+    - title: Portal CNES (Atual)
+      url: /portal_atual.html
+      output: web, pdf
+      type: homepage
+
+    - title: Portal CNES (Legado)
+      url: /emconstrucao.html
+      output: web, pdf
+      type: homepage
+
+    - title: Webservice
+      url: /emconstrucao.html
+      output: web, pdf
+      type: homepage
+
+  - title: Suporte
+    output: web, pdf
+    folderitems:
+
+    - title: O que é o webatendimento
+      url: /webatendimento.html
+      output: web, pdf
+
+    - title: Registro do chamado
+      url: /chamado.md
+      output: web, pdf
+
+
+  - title: LGPD
+    output: web, pdf
+    folderitems:
+
+    - title: Lei Geral de Dados
+      url: /LGPD.html
+      output: web, pdf    
+
+
+  - title: Jornada do usuario
+    output: web, pdf
+
+    folderitems:
+    - title: Pages
+      url: /emconstrucao.html
+      output: web, pdf    
+
+  - title: SCPA
+    output: web, pdf
+
+    folderitems:
+    - title: Sidebar navigation
+      url: /emconstrucao.html
+      output: web, pdf    
+
+  - title: Nova Wiki CNES
+    output: web, pdf
+
+    folderitems:
+    - title: Tooltips
+      url: /emconstrucao.html
+      output: web, pdf    
+
+  - title: ElastiCNES
+    output: web, pdf
+
+    folderitems:
+    - title: Commenting on files
+      url: /emconstrucao.html
+      output: web, pdf
+
+  - title: Legislação
+    output: web, pdf
+
+    folderitems:
+    - title: Build arguments
+      url: /emconstrucao.html
+      output: web, pdf    
+
+  - title: Capacitação
+    output: web, pdf
+
+    folderitems:
+    - title: Formulário de solicitação
+      url: /Capacitacao.html
+      output: web, pdf     
+
+    - title: Treinamentos realizados
+      url: /realizados.html
+      output: web, pdf            
+
+  - title: FAQs
+    output: web, pdf
+
+    folderitems:
+
+    - title: Troubleshooting
+      url: /emconstrucao.html
+      output: web, pdf
