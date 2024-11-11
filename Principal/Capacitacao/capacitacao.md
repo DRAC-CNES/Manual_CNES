@@ -9,7 +9,7 @@ summary:
 {% include estilos.html %}
 
 
-![formulario_capacitacoes](../.imagens/Capacitacao/capacitacao.PNG)
+![formulario_capacitacoes](../imagens/Capacitacao/capacitacao.PNG)
 
 ## Formulário de solicitação de capacitação:
 
