@@ -10,7 +10,7 @@ summary:
 
 ## Teste Piloto do NOVO CNES:
 
-![Homologacao](../.imagens/homologacao/homologacao.PNG)
+![Homologacao](../imagens/homologacao/homologacao.PNG)
 
 
 Em articulação tripartite, o Ministério da Saúde em conjunto com o CONASS e CONASEMS, elegeram um rol de municípios pilotos para avaliação do NOVO CNES.
