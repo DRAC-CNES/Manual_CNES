@@ -31,7 +31,7 @@ Dentre os principais critérios adotados para avaliação do sistema, forma aval
 
 Neste contexto, o teste piloto desempenhou um papel crucial na avaliação do NOVO CNES, especialmente por ser um sistema de informação voltado para estabelecimentos de saúde (CNES), sendo acessado simultaneamente por milhares de estabelecimentos de saúde em todo o Brasil. A fase inicial de testes foi fundamental para garantia de que o sistema funcionasse de forma segura, eficiente e confiável antes de seu lançamento oficial para todo o Brasil.
 
-![Gráfico de homologação](../.imagens/homologacao/grafico.PNG)
+![Gráfico de homologação](../imagens/homologacao/grafico.PNG)
 
 <figcaption>Figura 1 - Gráfico fictício</figcaption>
 
