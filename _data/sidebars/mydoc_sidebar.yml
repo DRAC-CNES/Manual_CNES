@@ -132,7 +132,7 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Orientações de uso do ElastiCNES
+    - title: Orientações de uso
       url: /elasticnes.html
       output: web, pdf
 
