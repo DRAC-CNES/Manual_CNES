@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: O que é o novo CNES
-      url: /novoCNES.html
+      url: /novocnes.html
       output: web, pdf    
 
     - title: Homologacao Piloto
@@ -100,7 +100,7 @@ entries:
       output: web, pdf
 
     - title: Registro do chamado
-      url: /chamado.md
+      url: /chamado.html
       output: web, pdf
 
 
@@ -109,7 +109,7 @@ entries:
     folderitems:
 
     - title: Lei Geral de Dados
-      url: /LGPD.html
+      url: /lgpd.html
       output: web, pdf    
 
 
