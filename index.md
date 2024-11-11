@@ -1,12 +1,14 @@
 ---
 title: "Manual do novo CNES"
-keywords: Homepage
+keywords: Manual do novo CNES
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: 
 ---
 
 {% include estilos.html %}
+
+## Bem-vindo ao Manual do Novo Portal CNES!
 
 Estamos muito contentes em recebê-lo! Este manual foi especialmente desenvolvido para orientar e capacitar todos os usuários no uso do **novo Portal CNES** (Cadastro Nacional de Estabelecimentos de Saúde), que está sendo lançado para aprimorar o acesso e a utilização dos dados de saúde de forma segura e eficiente.
 
