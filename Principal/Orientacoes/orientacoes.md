@@ -8,5 +8,5 @@ summary:
 
 {% include estilos.html %}
 
-{% include accordion.html %}
+
 
