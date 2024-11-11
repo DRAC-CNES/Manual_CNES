@@ -1,4 +1,4 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+# Documento de estruturação do menu lateral.
 
 entries:
 - title: sidebar
@@ -27,19 +27,33 @@ entries:
       url: /novocnes.html
       output: web, pdf    
 
-    - title: Homologacao Piloto
-      url: /homologacao.html
-      output: web, pdf    
-
     - title: Fases do projeto
       url: /fases_projeto.html
       output: web, pdf      
       type: homepage
 
+    - title: Homologacao Piloto
+      url: /homologacao.html
+      output: web, pdf      
+
     - title: Dinâmica do novo sistema
       url: /dinamica.html
       output: web, pdf
       type: homepage
+
+    - title: SCPA
+      url: /scpa.html
+      output: web, pdf
+      type: homepage
+
+    - title: FAQs
+      url: /FAQs_novo_CNES.html
+      output: web, pdf
+      type: homepage
+
+  - title: Visão Geral
+    output: web, pdf
+    folderitems:
 
     - title: Objetivos do CNES
       url: /objetivo.html
@@ -76,20 +90,87 @@ entries:
       output: web, pdf
       type: homepage
 
+  - title: Aplicativos
+    output: web, pdf
+
+    folderitems:
+    - title: SCNES - Completo
+      url: /emconstrucao.html
+      output: web, pdf  
+
+    - title: SCNES - Simplificado
+      url: /emconstrucao.html
+      output: web, pdf
+
+    - title: Guia de instalação
+      url: /emconstrucao.html
+      output: web, pdf  
+
+  - title: Portal Atual
+    output: web, pdf
+
+    folderitems:
     - title: Portal CNES (Atual)
       url: /portal_atual.html
       output: web, pdf
       type: homepage
 
+    - title: Calendário de envio
+      url: /emconstrucao.html
+      output: web, pdf
+
+  - title: Portal Legado
+    output: web, pdf
+
+    folderitems:
     - title: Portal CNES (Legado)
       url: /emconstrucao.html
       output: web, pdf
-      type: homepage
+      type: homepage   
 
-    - title: Webservice
-      url: /emconstrucao.html
+  - title: ElastiCNES
+    output: web, pdf
+
+    folderitems:
+    - title: Orientações de uso do ElastiCNES
+      url: /elasticnes.html
       output: web, pdf
-      type: homepage
+
+  - title: Integrações
+    output: web, pdf
+
+    folderitems:
+    - title: Webservices
+      url: /webservice.html
+      output: web, pdf    
+    
+    - title: Tabnet
+      url: /tabnet.html
+      output: web, pdf    
+
+  - title: Legislação
+    output: web, pdf
+
+    folderitems:
+    - title: Portarias
+      url: /portarias.html
+      output: web, pdf 
+
+    title: Lei Geral de Proteção de Dados
+      url: /lgpd.html
+      output: web, pdf  
+
+  - title: Capacitação
+    output: web, pdf
+
+    folderitems:
+    - title: Como solicitar capacitação
+      url: /capacitacao.html
+      output: web, pdf     
+
+    - title: Webinarios
+      url: /webinarios.html
+      output: web, pdf   
 
   - title: Suporte
     output: web, pdf
@@ -99,77 +180,18 @@ entries:
       url: /webatendimento.html
       output: web, pdf
 
-    - title: Registro do chamado
-      url: /chamado.html
-      output: web, pdf
+    - title: CNES sem dúvidas
+      url: /semduvidas.html
+      output: web, pdf  
+    
+    - title: FAQs
+      url: /faqs.html
+      output: web, pdf  
 
-
-  - title: LGPD
-    output: web, pdf
-    folderitems:
-
-    - title: Lei Geral de Dados
-      url: /lgpd.html
-      output: web, pdf    
-
-
-  - title: Jornada do usuario
+  - title: Sobre esta documentação
     output: web, pdf
 
     folderitems:
-    - title: Pages
-      url: /emconstrucao.html
-      output: web, pdf    
-
-  - title: SCPA
-    output: web, pdf
-
-    folderitems:
-    - title: Sidebar navigation
-      url: /emconstrucao.html
-      output: web, pdf    
-
-  - title: Nova Wiki CNES
-    output: web, pdf
-
-    folderitems:
-    - title: Tooltips
-      url: /emconstrucao.html
-      output: web, pdf    
-
-  - title: ElastiCNES
-    output: web, pdf
-
-    folderitems:
-    - title: Commenting on files
-      url: /emconstrucao.html
-      output: web, pdf
-
-  - title: Legislação
-    output: web, pdf
-
-    folderitems:
-    - title: Build arguments
-      url: /emconstrucao.html
-      output: web, pdf    
-
-  - title: Capacitação
-    output: web, pdf
-
-    folderitems:
-    - title: Formulário de solicitação
-      url: /capacitacao.html
-      output: web, pdf     
-
-    - title: Treinamentos realizados
-      url: /realizados.html
-      output: web, pdf            
-
-  - title: FAQs
-    output: web, pdf
-
-    folderitems:
-
-    - title: Troubleshooting
-      url: /emconstrucao.html
-      output: web, pdf
+    - title: Nova documentação
+      url: /nova_documentacao.html
+      output: web, pdf   
