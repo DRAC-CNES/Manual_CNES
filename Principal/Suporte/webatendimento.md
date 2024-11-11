@@ -29,26 +29,26 @@ Ao acessar o link informado, a tela abaixo será carregada. Antes de registrar o
 
 Localize no menu suspenso a dúvida desejada!! Clique no menu e verifique a orientação.
 
-![Cnes2](../../images/Webatendimento/menu_suspenso.PNG)
+![Cnes2](../.imagens/Webatendimento/menu_suspenso.PNG)
 
 
 ### 2. Registrando o Chamado:
 
 Caso não tenha localizado sua dúvida nas perguntas frequentes, clique no botão “Quero abrir um chamado”:
 
-![Cnes2](../images/Webatendimento/quero%20abrir%20um%20chamado.PNG
+![Cnes2](../.imagens/Webatendimento/quero_abrir_um_chamado.PNG)
 
 Na tela seguinte, informe seus dados de contato (nome, telefone, e-mail, cpf e UF), para que possamos entrar em contato no decorrer do seu atendimento. É importante destacar que estes campos são de preenchimento obrigatório para o registro de um novo chamado:
 
-![Cnes2](../../images/Webatendimento/formulario_de_abertura_de_chamado-cabecalho.PNG)
+![Cnes2](../.imagens/Webatendimento/formulario_de_abertura_de_chamado-cabecalho.PNG)
 
 Marque corretamente o campo “funcionalidade” de acordo com o problema desejado. Caso não identifique a opção desejada, marque “outros assuntos”.
 
-![Cnes2](../../images/Webatendimento/campo_funcionalidade.PNG)
+![Cnes2](../.imagens/Webatendimento/campo_funcionalidade.PNG)
 
 Para maior agilidade na resposta da sua solicitação, é importante que descreva de forma objetiva e clara a sua requisição. Se necessário, anexe prints evidenciando o problema relatado:
 
-![Cnes2](../../images/Webatendimento/descreva_a_sua_solicitacao.PNG)
+![Cnes2](../.imagens/Webatendimento/descreva_a_sua_solicitacao.PNG)
 
 **Observação:** Nos anexos, só serão aceitos arquivos nos formatos .gif, .jpeg, .gif e .png, com tamanho máximo de 3MB. Caso precise enviar um vídeo, compartilhe-o via armazenamento em nuvem e forneça o link com as permissões de acesso.
 
@@ -56,29 +56,29 @@ Para maior agilidade na resposta da sua solicitação, é importante que descrev
 
 Após registrar o chamado, um protocolo de atendimento será gerado e exibido na tela. Você também receberá o número do ticket no e-mail informado, com um link para acompanhar sua solicitação.
 
-![Cnes2](../../images/Webatendimento/numero_do_chamado.PNG)
+![Cnes2](../.imagens/Webatendimento/numero_do_chamado.PNG)
 
 Você também receberá no e-mail informado o número do ticket registrado, com o link para o acompanhamento da sua solicitação. Para acompanhá-la, basta clicar em “clique para acompanhar seu atendimento”.
 
-![Cnes2](../../images/Webatendimento/acompanhar_chamado.PNG)
+![Cnes2](../.imagens/Webatendimento/acompanhar_chamado.PNG)
 
 Informe seu CPF e o número da solicitação enviada por e-mail; preencha a captcha e clique em “pesquisar”.
 
-![Cnes2](../../images/Webatendimento/consultar_chamado.PNG)
+![Cnes2](../.imagens/Webatendimento/consultar_chamado.PNG)
 
 Verifique o progresso da sua solicitação e consulte o status do andamento.
 
-![Cnes2](../../images/Webatendimento/consultar_chamado2.PNG)
+![Cnes2](../.imagens/Webatendimento/consultar_chamado2.PNG)
 
 Ao clicar no número do ticket, será carregado a linha cronológica com as interações técnicas que já foram realizadas no seu atendimento.
 
-![Cnes2](../../images/Webatendimento/linha_cronologica.PNG)
+![Cnes2](../.imagens/Webatendimento/linha_cronologica.PNG)
 
 ### Conclusão do Atendimento:
 
 Depois que o chamado for finalizado, chegará no e-mail cadastrado a resposta da solicitação:
 
-![Cnes2](../../images/Webatendimento/chamado_finalizado.PNG)
+![Cnes2](../.imagens/Webatendimento/chamado_finalizado.PNG)
 
 **Atenção:** Após **3 dias úteis**, caso não haja retorno da solicitação, sua demanda técnica será considerada atendida e não haverá possibilidade de reabertura do chamado.
 
@@ -86,12 +86,12 @@ Em “clique no seu atendimento”, será possível informar se a solicitação 
 
 Informe se sua solicitação foi atendida; caso negativo, clique em “não” e informe o motivo da reabertura e clique em “enviar”.
 
-![Cnes2](../../images/Webatendimento/solicitacao_atendida.PNG)
+![Cnes2](../.imagens/Webatendimento/solicitacao_atendida.PNG)
 
 
 Se a solicitação tiver sido atendida, você será convidado a avaliar a Pesquisa de satisfação. Ressaltamos que a sua resposta é fundamental para o aprimoramento dos nossos serviços:
 
-![Cnes2](../../images/images/Webatendimento/solicitacao_atendida_2.PNG)
+![Cnes2](../.imagens/Webatendimento/solicitacao_atendida_2.PNG)
 
 Clicando em “fechar” o chamado será finalizado automaticamente não havendo possiblidade de reabertura.
 
@@ -105,4 +105,4 @@ Informe sua nota de satisfação, conforme as opções abaixo:
 - Satisfeito
 - Muito satisfeito
 
-![Cnes2](../../images/Webatendimento/avaliacao_do_atendimento.PNG)
+![Cnes2](../.imagens/Webatendimento/avaliacao_do_atendimento.PNG)

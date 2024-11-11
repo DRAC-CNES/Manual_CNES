@@ -14,7 +14,7 @@ Objetivando garantir um processo de implementação eficiente e monitorar o comp
 
 ## Planejamento de implantação:
 
-![Fases do projeto](../../images/fases_de_implantacao.PNG)
+![Fases do projeto](../.imagens/fases_de_implantacao.PNG)
 
 **1ª Etapa: Farmácias e Ambulatórios Não SUS**
 

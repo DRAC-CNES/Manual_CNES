@@ -13,7 +13,7 @@ summary:
 
 O acesso ao CNESNet se dá através do endereço http://cnes2.datasus.gov.br.
 
-![Cnes2](../images/cnesnet/cnesnet.PNG)
+![Cnes2](../.imagens/cnesnet/cnesnet.PNG)
 
 Este portal está sendo descontinuado, porém ainda existem algumas funcionalidades ativas nele.
 
