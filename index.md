@@ -18,7 +18,7 @@ Aqui, você encontrará instruções atualizadas e informações detalhadas para
 
 Com o objetivo de tornar o uso do **novo Portal CNES** mais intuitivo e seguro, este manual está dividido em seções que explicam passo a passo o cadastro, o acesso, as permissões e o compartilhamento de dados de saúde. Cada seção foi projetada para ajudá-lo a realizar suas tarefas de maneira ágil e em conformidade com a legislação vigente.
 
-![Descrição da Imagem](Principal/imagens/homepage/visao_geral.png)
+![Descrição da Imagem](/Principal/imagens/homepage/visao_geral.png)
 
 Nosso compromisso é fornecer a você um material que facilite o uso do Portal CNES, promova a proteção de dados pessoais e contribua para uma gestão de saúde pública ainda mais transparente e responsável.
 
