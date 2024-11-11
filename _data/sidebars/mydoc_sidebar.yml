@@ -156,9 +156,9 @@ entries:
       url: /portarias.html
       output: web, pdf 
 
-    title: Lei Geral de Proteção de Dados
+    - title: Lei Geral de Proteção de Dados
       url: /lgpd.html
-      output: web, pdf  
+      output: web, pdf
 
   - title: Capacitação
     output: web, pdf
