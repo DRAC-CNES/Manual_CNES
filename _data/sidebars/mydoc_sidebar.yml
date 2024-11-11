@@ -46,7 +46,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: FAQs
+    - title: Dúvidas gerais
       url: /FAQs_novo_CNES.html
       output: web, pdf
       type: homepage
@@ -156,7 +156,7 @@ entries:
       url: /portarias.html
       output: web, pdf 
 
-    - title: Lei Geral de Proteção de Dados
+    - title: LGPD
       url: /lgpd.html
       output: web, pdf
 
@@ -188,7 +188,7 @@ entries:
       url: /faqs.html
       output: web, pdf  
 
-  - title: Sobre esta documentação
+  - title: Orientações gerais
     output: web, pdf
 
     folderitems:
