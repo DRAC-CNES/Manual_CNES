@@ -186,7 +186,7 @@ entries:
       url: /faqs.html
       output: web, pdf  
 
-  - title: Orientações gerais
+  - title: Orientações
     output: web, pdf
 
     folderitems:
