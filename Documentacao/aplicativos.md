@@ -2,14 +2,14 @@
 title: "Aplicativos do CNES"
 keywords: Aplicativos do CNES
 sidebar: mydoc_sidebar
-permalink: Aplicativos_do_CNES.html
+permalink: aplicativos.html
 summary: 
 ---
 
 {% include estilos.html %}
 
 
-# Aplicativos do CNES
+## Aplicativos que compõem o CNES:
 
 O SCNES possui dois aplicativos para registro das informações dos estabelecimentos: o **SCNES Completo** e o **SCNES Simplificado**.
 

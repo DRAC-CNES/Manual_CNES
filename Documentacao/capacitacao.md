@@ -2,7 +2,7 @@
 title: "Solicitações de capacitação:"
 keywords: Capacitação
 sidebar: mydoc_sidebar
-permalink: Capacitacao.html
+permalink: capacitacao.html
 summary: 
 ---
 
@@ -10,6 +10,8 @@ summary:
 
 
 ![formulario_capacitacoes](../images/Capacitacao/capacitacao.PNG)
+
+## Formulário de solicitação de capacitação:
 
 Comunicamos que todas as solicitações para capacitações e treinamentos no âmbito do CNES deverão ser feitas por intermédio das interlocuções regionais ou formalizadas via ofício direcionado à Coordenação Geral de Sistemas de Informação (CGSI/DRAC).
 

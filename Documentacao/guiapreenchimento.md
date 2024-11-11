@@ -2,13 +2,13 @@
 title: "Guia de preenchimento"
 keywords: Guia de preenchimento
 sidebar: mydoc_sidebar
-permalink: Guia_de_preenchimento.html
+permalink: guiapreenchimento.html
 summary: 
 ---
 
 {% include estilos.html %}
 
-# Guia de Preenchimento
+## Sobre o preenchimento dos dados:
 
 Os artigos 371 e 372 da Portaria de Consolidação nº 01/GM/MS/2017 estabelecem que a atualização do cadastro de estabelecimentos de saúde deverá ocorrer em meio eletrônico, no mínimo com periodicidade mensal, ou sempre que houver alterações nas informações.
 

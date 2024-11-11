@@ -2,13 +2,13 @@
 title: "Contato"
 keywords: Contato
 sidebar: mydoc_sidebar
-permalink: Contato.html
+permalink: contato.html
 summary: 
 ---
 
 {% include estilos.html %}
 
-# Contato
+## Entre em contato conosco:
 
 - **Secretaria de Estado da Saúde**: encaminhar e-mail para [cnes@saude.gov.br](mailto:cnes@saude.gov.br).
 

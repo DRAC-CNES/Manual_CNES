@@ -2,13 +2,13 @@
 title: "Contato do Gestor"
 keywords: Contato_do_Gestor
 sidebar: mydoc_sidebar
-permalink: Contato_do_Gestor.html
+permalink: contatogestor.html
 summary: 
 ---
 
 {% include estilos.html %}
 
-# Identificando o Contato do Gestor:
+## Como identificar o contato do gestor:
 
 Os telefones e endereços de contato dos gestores estão localizados, até o momento, no CNESNet, em Serviços/Gestores/Relação de Gestores Cadastrados; O site disponibilizará uma opção na qual o usuário fará a escolha do seu estado.
 

@@ -2,14 +2,14 @@
 title: "CNES Net"
 keywords: CNES Net
 sidebar: mydoc_sidebar
-permalink: CNESNet.html
+permalink: cnesnet.html
 summary: 
 ---
 
 {% include estilos.html %}
 
 
-CNESNet:
+## Sobre o CNESNET:
 
 O acesso ao CNESNet se dá através do endereço http://cnes2.datasus.gov.br.
 

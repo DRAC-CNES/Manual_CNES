@@ -1,5 +1,5 @@
 ---
-title: "Homologação"
+title: "Piloto do NOVO CNES:"
 keywords: Homologação
 sidebar: mydoc_sidebar
 permalink: homologacao.html
@@ -8,7 +8,7 @@ summary:
 
 {% include estilos.html %}
 
-# Teste Piloto do NOVO CNES:
+## Teste Piloto do NOVO CNES:
 
 ![Homologacao](../images/homologacao/homologacao.PNG)
 

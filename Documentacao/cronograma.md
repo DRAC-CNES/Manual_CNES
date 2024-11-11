@@ -2,7 +2,7 @@
 title: "Cronograma"
 keywords: Cronograma
 sidebar: mydoc_sidebar
-permalink: Cronograma.html
+permalink: cronograma.html
 summary: 
 ---
 

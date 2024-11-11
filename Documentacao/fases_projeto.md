@@ -8,6 +8,8 @@ summary:
 
 {% include estilos.html %}
 
+## Etapas de desenvolvimento do projeto:
+
 Objetivando garantir um processo de implementação eficiente e monitorar o comportamento da nova aplicação, o projeto do Novo Cadastro Nacional de Estabelecimentos de Saúde (CNES) foi estruturado em três etapas distintas. Essa divisão é estratégica e visa proporcionar uma transição gradual, permitindo que estados e municípios possam se adaptar adequadamente às novas funcionalidades do sistema, além de possibilitar a identificação de oportunidades de melhoria ao longo do processo.
 
 ## Planejamento de implantação:

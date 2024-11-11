@@ -2,19 +2,17 @@
 title: "Dissemianção da informação"
 keywords: Dissemianção_da_informação
 sidebar: mydoc_sidebar
-permalink: Dissemianção_da_informação.html
+permalink: disseminacao.html
 summary: 
 ---
 
 {% include estilos.html %}
 
-# Disseminação da Informação
-
-## ElastiCNES
+## ElastiCNES: Como instrumento de gestão.
 
 A definição de **Painéis Estatísticos** foi criada com o objetivo de substituir os relatórios disponibilizados no CNESNet.
 
-Primeiramente, foi acordada a utilização da tecnologia **Elasticsearch**, que utiliza um mecanismo de busca e análise de dados distribuído e open source para todos os tipos de dados, incluindo textuais, numéricos, geoespaciais, estruturados e não estruturados. A vantagem do uso de painéis em Elasticsearch é a possibilidade de ajustar os dados de forma personalizada para cada usuário. Esses relatórios são moldáveis, interativos e de uso intuitivo.
+Primeiramente, foi acordada a utilização da tecnologia **Elasticsearch**, que utiliza um mecanismo de busca e análise de dados distribuído e open source para todos os tipos de dados, incluindo textuais, numéricos, geoespaciais, estruturados e não estruturados. A vantagem do uso de painéis em Elasticsearch é a possibilidade de ajustar os dados de forma personalizada para cada usuário. Esses relatórios são moldáveis, interativos e de uso intuitivo.kjhkj
 
 A oferta desses painéis visa:
 

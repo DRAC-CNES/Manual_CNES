@@ -2,7 +2,7 @@
 title: "Tabnet"
 keywords: Tabnet
 sidebar: mydoc_sidebar
-permalink: Tabnet.html
+permalink: tabnet.html
 summary: 
 ---
 

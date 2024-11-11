@@ -9,7 +9,7 @@ summary:
 {% include estilos.html %}
 
 
-## Histórico:
+## Histórico CNES:
 
 As primeiras informações sobre estabelecimentos de saúde no Brasil aparecem em 1976, onde são publicados, no âmbito do IBGE, os primeiros resultados da Pesquisa de Assistência Médico-Sanitária (AMS), que possibilitou o conhecimento de dados sobre as instituições ambulatoriais e hospitalares em território nacional. Mediante a Folha de Atualização Cadastral da AMS era possível conhecer dados detalhados sobre o ambiente ambulatorial, hospitalar ou de urgências.
 
