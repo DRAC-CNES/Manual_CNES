@@ -158,7 +158,7 @@ entries:
 
     folderitems:
     - title: Formulário de solicitação
-      url: /Capacitacao.html
+      url: /capacitacao.html
       output: web, pdf     
 
     - title: Treinamentos realizados
