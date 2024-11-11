@@ -1,5 +1,5 @@
 ---
-title: "Fases de implantação do projeto"
+title: "Fases de implantação do projeto:"
 keywords: Fases de implantação do projeto
 sidebar: mydoc_sidebar
 permalink: fases_projeto.html
