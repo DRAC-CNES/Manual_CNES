@@ -8,7 +8,7 @@ summary:
 
 {% include estilos.html %}
 
-# Critérios Mínimos de um Estabelecimento de Saúde:
+## Critérios Mínimos para composição de um Estabelecimento de Saúde:
 
 Para o CNES, um **estabelecimento de saúde** é um espaço físico delimitado e permanente onde são realizadas ações e serviços de saúde humana sob responsabilidade técnica.
 

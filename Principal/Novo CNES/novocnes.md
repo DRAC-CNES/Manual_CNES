@@ -2,14 +2,14 @@
 title: "O que é o novo CNES"
 keywords: O que é o novo CNES
 sidebar: mydoc_sidebar
-permalink: novoCNES.html
+permalink: novocnes.html
 summary: 
 ---
 
 {% include estilos.html %}
 
 
-## Nova Wiki do Portal CNES!
+## Manual do Novo Portal CNES:
 
 É com enorme satisfação que apresentamos a você a nova WIKI do Portal do Cadastro Nacional de Estabelecimentos de Saúde (CNES). Este canal foi cuidadosamente estruturado para fornecer informações valiosas e orientar os usuários em todas as questões relacionadas à operacionalização do NOVO CNES.
 

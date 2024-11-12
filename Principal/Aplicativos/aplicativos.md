@@ -2,7 +2,7 @@
 title: "Aplicativos do CNES"
 keywords: Aplicativos do CNES
 sidebar: mydoc_sidebar
-permalink: Aplicativos_do_CNES.html
+permalink: aplicativos.html
 summary: 
 ---
 

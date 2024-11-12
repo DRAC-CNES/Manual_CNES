@@ -1,5 +1,5 @@
 ---
-title: "Publico Alvo"
+title: "Público Alvo"
 keywords: Publico alvo
 sidebar: mydoc_sidebar
 permalink: publico.html
@@ -7,11 +7,6 @@ summary:
 ---
 
 {% include estilos.html %}
-
-
-
-
-# Público Alvo
 
 O CNES se destina a toda a população brasileira, sendo definidos os seguintes atores e papéis no seu processo.
 

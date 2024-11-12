@@ -2,7 +2,7 @@
 title: "Contato"
 keywords: Contato
 sidebar: mydoc_sidebar
-permalink: Contato.html
+permalink: contato.html
 summary: 
 ---
 

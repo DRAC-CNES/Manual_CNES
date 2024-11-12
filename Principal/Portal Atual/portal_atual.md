@@ -1,5 +1,5 @@
 ---
-title: "Portal do Cnes"
+title: "Portal do CNES"
 keywords: Portal do Cnes
 sidebar: mydoc_sidebar
 permalink: portal_atual.html

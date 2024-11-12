@@ -1,5 +1,5 @@
 ---
-title: "Homologação"
+title: "Piloto do NOVO CNES:"
 keywords: Homologação
 sidebar: mydoc_sidebar
 permalink: homologacao.html
@@ -8,9 +8,9 @@ summary:
 
 {% include estilos.html %}
 
-# Teste Piloto do NOVO CNES:
+## Teste Piloto do NOVO CNES:
 
-![Homologacao](../images/homologacao/homologacao.PNG)
+![Homologacao](../imagens/homologacao/homologacao.PNG)
 
 
 Em articulação tripartite, o Ministério da Saúde em conjunto com o CONASS e CONASEMS, elegeram um rol de municípios pilotos para avaliação do NOVO CNES.
@@ -31,7 +31,7 @@ Dentre os principais critérios adotados para avaliação do sistema, forma aval
 
 Neste contexto, o teste piloto desempenhou um papel crucial na avaliação do NOVO CNES, especialmente por ser um sistema de informação voltado para estabelecimentos de saúde (CNES), sendo acessado simultaneamente por milhares de estabelecimentos de saúde em todo o Brasil. A fase inicial de testes foi fundamental para garantia de que o sistema funcionasse de forma segura, eficiente e confiável antes de seu lançamento oficial para todo o Brasil.
 
-![Gráfico de homologação](../images/homologacao/grafico.PNG)
+![Gráfico de homologação](../imagens/homologacao/grafico.PNG)
 
 <figcaption>Figura 1 - Gráfico fictício</figcaption>
 

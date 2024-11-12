@@ -1,14 +1,14 @@
 ---
-title: "LGPD"
+title: "Lei Geral de Proteção de Dados (LGPD)"
 keywords: LGPD
 sidebar: mydoc_sidebar
-permalink: LGPD.html
+permalink: lgpd.html
 summary: 
 ---
 
 {% include estilos.html %}
 
-# Lei Geral de Proteção de Dados (LGPD):
+# LGPD:
 
 ## Escopo
 

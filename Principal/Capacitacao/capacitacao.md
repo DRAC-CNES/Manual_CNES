@@ -2,14 +2,16 @@
 title: "Solicitações de capacitação:"
 keywords: Capacitação
 sidebar: mydoc_sidebar
-permalink: Capacitacao.html
+permalink: capacitacao.html
 summary: 
 ---
 
 {% include estilos.html %}
 
 
-![formulario_capacitacoes](../images/Capacitacao/capacitacao.PNG)
+![formulario_capacitacoes](../imagens/Capacitacao/capacitacao.PNG)
+
+## Formulário de solicitação de capacitação:
 
 ## Como solicitar capacitações para o CNES:
 
