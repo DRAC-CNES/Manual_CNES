@@ -11,6 +11,8 @@ summary:
 
 ![formulario_capacitacoes](../images/Capacitacao/capacitacao.PNG)
 
+## Como solicitar capacitações para o CNES:
+
 Comunicamos que todas as solicitações para capacitações e treinamentos no âmbito do CNES deverão ser feitas por intermédio das interlocuções regionais ou formalizadas via ofício direcionado à Coordenação Geral de Sistemas de Informação (CGSI/DRAC).
 
 Para possibilitar nosso planejamento e assegurar a organização da agenda técnica e logística necessária à condução dos eventos, pedimos que o ofício contenha as seguintes informações:

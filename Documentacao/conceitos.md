@@ -8,7 +8,7 @@ summary:
 
 {% include estilos.html %}
 
-# Conceitos do Sistema
+## Alguns conceitos:
 
 ### Estabelecimento de saúde
 Espaço físico delimitado e permanente onde são realizados ações e serviços de saúde humana sob responsabilidade técnica (art. 360, da PRC/MS nº 01/2017).

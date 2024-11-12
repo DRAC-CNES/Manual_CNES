@@ -9,7 +9,7 @@ summary:
 {% include estilos.html %}
 
 
-# Aplicativos do CNES
+## Aplicativos que compõem o CNES:
 
 O SCNES possui dois aplicativos para registro das informações dos estabelecimentos: o **SCNES Completo** e o **SCNES Simplificado**.
 
