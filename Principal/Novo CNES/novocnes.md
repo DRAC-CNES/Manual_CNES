@@ -8,15 +8,6 @@ summary:
 
 {% include estilos.html %}
 
-
-## Manual do Novo Portal CNES:
-
-É com enorme satisfação que apresentamos a você a nova WIKI do Portal do Cadastro Nacional de Estabelecimentos de Saúde (CNES). Este canal foi cuidadosamente estruturado para fornecer informações valiosas e orientar os usuários em todas as questões relacionadas à operacionalização do NOVO CNES.
-
-O objetivo é esclarecer as principais dúvidas e facilitar seu acesso aos serviços, oferecendo um conteúdo detalhado sobre cada funcionalidade, potencialidades e recursos da plataforma.
-
-Explore as novas ferramentas e descubra como este portal pode otimizar suas atividades. Seja muito bem-vindo e aproveite ao máximo nosso conteúdo.
-
 ## O que é o NOVO CNES?
 
 O Ministério da Saúde, por meio do Núcleo de Cadastro Nacional de Estabelecimentos de Saúde (CNES), tem a satisfação de informar o lançamento da nova Plataforma de Cadastro de Estabelecimentos de Saúde (CNES Autocadastro) em substituição a atual ferramenta. Esta iniciativa visa simplificar o processo de cadastro, tornando-o mais eficiente e acessível, com menos campos e maior foco na qualidade das informações fornecidas.
