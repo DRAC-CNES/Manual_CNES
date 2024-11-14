@@ -1,8 +1,8 @@
 ---
-title: "Principais dúvidas realizadas (FAQs):"
+title: "Sobre este manual:"
 keywords: Portal do Cnes
 sidebar: mydoc_sidebar
-permalink: orientacoes.html
+permalink: sobre.html
 summary: 
 ---
 
