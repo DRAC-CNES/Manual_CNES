@@ -186,10 +186,14 @@ entries:
       url: /faqs.html
       output: web, pdf  
 
-  - title: Orientações
+  - title: Sobre o Manual
     output: web, pdf
 
     folderitems:
-    - title: Nova documentação
-      url: /nova_documentacao.html
-      output: web, pdf   
+    - title: Orientações
+      url: /sobre.html
+      output: web, pdf  
+
+    - title: Mapa do site
+      external_url: https://mm.tt/app/map/3503924489?t=jHGmk7AOjI
+      output: web, pdf  

@@ -5,8 +5,8 @@ topnav:
   items:
     - title: CNES
       external_url: https://cnes.datasus.gov.br
-    - title: CNES Legado
-      external_url: https://cnes2.datasus.gov.br
+    - title: Suporte
+      external_url: https://webatendimento.saude.gov.br/faq/cnes
     - title: Canal Telegram
       external_url: https://t.me/+LiQrjWsSgMw4YzYx
     - title: Blog do CNES
