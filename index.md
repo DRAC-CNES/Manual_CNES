@@ -10,9 +10,10 @@ summary:
 
 ## Bem-vindo ao Manual do Novo Portal CNES!
 
-<iframe width="700" height="350" 
-src="Principal/videos/playback.mp4" 
-frameborder="0" allowfullscreen></iframe>
+
+<video width="700" height="350" controls loop muted poster="Principal/videos/thumbnail.png">
+  <source src="Principal/videos/playback.mp4" type="video/mp4">  
+</video>
 
 
 Estamos muito contentes em recebê-lo! Este manual foi especialmente desenvolvido para orientar e capacitar todos os usuários no uso do **novo Portal CNES** (Cadastro Nacional de Estabelecimentos de Saúde), que está sendo lançado para aprimorar o acesso e a utilização dos dados de saúde de forma segura e eficiente.
