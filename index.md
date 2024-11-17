@@ -10,8 +10,8 @@ summary:
 
 ## Bem-vindo ao Manual do Novo Portal CNES!
 
-<iframe width="560" height="315" 
-src="/Principal/videos/playback.mp4" 
+<iframe width="700" height="350" 
+src="Principal/videos/playback.mp4" 
 frameborder="0" allowfullscreen></iframe>
 
 
