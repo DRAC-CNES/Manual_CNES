@@ -11,7 +11,7 @@ summary:
 ## Bem-vindo ao Manual do Novo Portal CNES!
 
 <iframe width="560" height="315" 
-src="/Principal/videos/homepage/playback.mp4" 
+src="/Principal/videos/playback.mp4" 
 frameborder="0" allowfullscreen></iframe>
 
 
