@@ -16,7 +16,7 @@ Objetivando garantir um processo de implementação eficiente e monitorar o comp
 
 ![Fases do projeto](../imagens/fases_de_implantacao.PNG)
 
-**1ª Etapa: Farmácias e Ambulatórios Não SUS**
+**1ª Etapa: Farmácias e Ambulatórios NÃO SUS**
 
 A primeira fase do projeto será focada na inclusão e atualização dos dados referentes às farmácias e ambulatórios que não fazem parte do Sistema Único de Saúde (SUS). Essa etapa busca assegurar que os estabelecimentos de saúde privados sejam devidamente cadastrados e que o sistema comece a operar de maneira controlada, garantindo a integridade dos dados e a funcionalidade do novo CNES.
 
