@@ -8,7 +8,7 @@ summary:
 
 {% include estilos.html %}
 
-Estamos muito contentes em recebê-lo! Este manual foi especialmente desenvolvido para orientar e capacitar todos os usuários no uso do **novo Portal CNES** (Cadastro Nacional de Estabelecimentos de Saúde), que está sendo lançado para aprimorar o acesso e a utilização dos dados de saúde de forma segura e eficiente.
+Estamos muito contentes em recebê-lo! Este manual foi especialmente desenvolvido para orientar e capacitar todos os usuários no uso do **novo Portal CNES** (Cadastro Nacional de Estabelecimentos de Saúde), que está sendo lançado para aprimorar o acesso e a utilização dos dados de saúde de forma segura e eficiente..
 
 {% include video_homepage.html %}
 
