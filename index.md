@@ -12,7 +12,7 @@ Estamos muito contentes em recebê-lo! Este manual foi especialmente desenvolvid
 
 {% include video_homepage.html %}
 
-Aqui, você encontrará instruções atualizadas e informações detalhadas para cada função disponível no portal, desde o cadastro de estabelecimentos de saúde até a geração de relatórios para planejamento e gestão, sempre com foco na segurança e na proteção dos dados, conforme as diretrizes da Lei Geral de Proteção de Dados (LGPD).
+Aqui, você encontrará instruções atualizadas e detalhadas para cada função disponível no portal, desde o cadastro de estabelecimentos de saúde até a geração de relatórios para planejamento e gestão, sempre com foco na segurança e na proteção dos dados, conforme as diretrizes da Lei Geral de Proteção de Dados (LGPD).
 
 Com o objetivo de tornar o uso do **novo Portal CNES** mais intuitivo e seguro, este manual está dividido em seções que explicam passo a passo o cadastro, o acesso, as permissões e o compartilhamento de dados de saúde. Cada seção foi projetada para ajudá-lo a realizar suas tarefas de maneira ágil e em conformidade com a legislação vigente.
 
