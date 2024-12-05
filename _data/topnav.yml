@@ -10,5 +10,5 @@ topnav:
     - title: Canal Telegram
       external_url: https://t.me/+LiQrjWsSgMw4YzYx
     - title: Blog do CNES
-      external_url: http://localhost
+      external_url: http://10.1.33.180
 
